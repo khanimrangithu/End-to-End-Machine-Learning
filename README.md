@@ -21,4 +21,5 @@ Some of the key points are:-
 * Found multicollinearity between temperature and dew point temperature.
 * Perform linear regression, decision tree, random forest, gradient boosting, Xtreme gradient boosting. & got highest accuracy i.e 93% on train and 90% on test on Xtreme gradient boosting.
 * There is no use of removing outliers it affects negatively on model performance.
+  
 Overall, the project highlights the potential of machine learning in solving real-world problems and provides a roadmap for future research in this area. The findings of this project can be extended to other cities with similar bike sharing systems, leading to more effective and efficient bike sharing operations, and better outcomes for all stakeholders.
